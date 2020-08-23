@@ -1,7 +1,7 @@
 {
 "companyName": "Crunk Nation",
 "productName": "CrunkFire",
-"productVersion": "0.3",
+"productVersion": "0.4b",
 "dataUrl": "testBuild0001.data.unityweb",
 "wasmCodeUrl": "testBuild0001.wasm.code.unityweb",
 "wasmFrameworkUrl": "testBuild0001.wasm.framework.unityweb",
